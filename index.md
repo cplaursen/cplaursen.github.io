@@ -1,4 +1,4 @@
-I am a Computer Science BEng, graduated from the University of York.
+I am a Computer Science BSc, graduated from the University of York.
 
 My interests include programming language theory and formal methods.
 
