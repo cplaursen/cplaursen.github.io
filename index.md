@@ -1,4 +1,6 @@
-I am an MPhil Advanced Computer Science student at the University of Cambridge. I graduated from the University of York with a first class Computer Science BSc.
+I am a PhD Computer Science student at the University of York.
+
+Previously, I completed an MPhil in Advanced Computer Science at the University of Cambridge and a BSc in Computer Science at the University of York.
 
 My interests include programming language theory and formal methods.
 
